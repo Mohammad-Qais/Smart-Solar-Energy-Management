@@ -7,11 +7,17 @@ This was a project submitted in first year of my college. It is not perfect, it 
 
 ### Parts used:
 Arduino Microcontroller
+
 Red LED 20mA
+
 Servo Motor SG90
+
 Breadboard
+
 Jumper wires
+
 A small solar panel
+
 
 The circuit diagram for assembling parts is provided. 
 
